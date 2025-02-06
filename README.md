@@ -24,7 +24,7 @@ A powerful railway management system built using Django, allowing users to regis
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/kunaldoliya90/workindia_assignment_railway_management_system.git
+    git clone (https://github.com/Deepakt0405/WORKINIDIA-IRCTC-ASSIGNMENT)
     cd workindia_assignment_railway_management_system
     ```
 
